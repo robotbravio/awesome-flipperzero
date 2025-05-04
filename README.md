@@ -386,6 +386,7 @@
 - [`Flipper Zero GPIO Pinout` Official GPIO pinouts.](https://miro.com/app/board/uXjVO_LaYYI=/?moveToWidget=3458764522696947614&cot=10)
 - [`Flipper Skylanders` How to read a Skylanders figure with Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
 - [`Application CI/CD Guide` A complete guide on how to adopt flipper application to regular API changes.](https://gist.github.com/Th3Un1q3/233fa6900d13caa95c6383e53a92bed1)
+- [`Mastering BadUSB Payloads for Flipper` Learn how to create and deploy BadUSB payloads with your Flipper!](https://flipperxmodules.gumroad.com/l/ojxli)
 
 ### *Specifications*
 
